@@ -40,7 +40,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  status_bar_control:
+  sp_status_bar_control:
     path: ../
 
   # The "flutter_lints" package below contains a set of recommended lints to
