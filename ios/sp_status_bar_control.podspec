@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'status_bar_control'
+  s.name             = 'sp_status_bar_control'
   s.version          = '3.2.1'
   s.summary          = 'Status Bar Control'
   s.description      = <<-DESC
